@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/PhysicalMemory.cpp" "/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/cmake-build-debug/CMakeFiles/os_ex4.dir/PhysicalMemory.cpp.o"
   "/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/SimpleTest.cpp" "/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/cmake-build-debug/CMakeFiles/os_ex4.dir/SimpleTest.cpp.o"
+  "/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/VirtualMemory.cpp" "/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/cmake-build-debug/CMakeFiles/os_ex4.dir/VirtualMemory.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -12,6 +12,10 @@ climits
 stdint.h
 -
 
+/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/PhysicalMemory.h
+MemoryConstants.h
+/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/MemoryConstants.h
+
 /cygdrive/c/Users/user/CLionProjects/os_exe/exe4/SimpleTest.cpp
 VirtualMemory.h
 /cygdrive/c/Users/user/CLionProjects/os_exe/exe4/VirtualMemory.h
@@ -19,6 +23,14 @@ cstdio
 -
 cassert
 -
+PhysicalMemory.h
+/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/PhysicalMemory.h
+
+/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/VirtualMemory.cpp
+VirtualMemory.h
+/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/VirtualMemory.h
+PhysicalMemory.h
+/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/PhysicalMemory.h
 
 /cygdrive/c/Users/user/CLionProjects/os_exe/exe4/VirtualMemory.h
 MemoryConstants.h

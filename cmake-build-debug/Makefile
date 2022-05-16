@@ -177,6 +177,30 @@ SimpleTest.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/os_ex4.dir/build.make CMakeFiles/os_ex4.dir/SimpleTest.cpp.s
 .PHONY : SimpleTest.cpp.s
 
+VirtualMemory.o: VirtualMemory.cpp.o
+.PHONY : VirtualMemory.o
+
+# target to build an object file
+VirtualMemory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/os_ex4.dir/build.make CMakeFiles/os_ex4.dir/VirtualMemory.cpp.o
+.PHONY : VirtualMemory.cpp.o
+
+VirtualMemory.i: VirtualMemory.cpp.i
+.PHONY : VirtualMemory.i
+
+# target to preprocess a source file
+VirtualMemory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/os_ex4.dir/build.make CMakeFiles/os_ex4.dir/VirtualMemory.cpp.i
+.PHONY : VirtualMemory.cpp.i
+
+VirtualMemory.s: VirtualMemory.cpp.s
+.PHONY : VirtualMemory.s
+
+# target to generate assembly for a file
+VirtualMemory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/os_ex4.dir/build.make CMakeFiles/os_ex4.dir/VirtualMemory.cpp.s
+.PHONY : VirtualMemory.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +216,9 @@ help:
 	@echo "... SimpleTest.o"
 	@echo "... SimpleTest.i"
 	@echo "... SimpleTest.s"
+	@echo "... VirtualMemory.o"
+	@echo "... VirtualMemory.i"
+	@echo "... VirtualMemory.s"
 .PHONY : help
 
 

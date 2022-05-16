@@ -2,6 +2,7 @@
 
 #include <cstdio>
 #include <cassert>
+#include "PhysicalMemory.h"
 
 int main(int argc, char **argv) {
 //    VMinitialize();
@@ -19,9 +20,7 @@ int main(int argc, char **argv) {
 //    printf("success\n");
 //
 //    return 0;
-	int p[2][5] = {0};
-	p[1][3]=2;
-	printf("the array %d",p[1][3]);
-	printf("the array %d",p[1][0]);
+  printf("page size is = %d\n", PAGE_SIZE);
+  printf("depth is = %d\n", TABLES_DEPTH);
 
 }

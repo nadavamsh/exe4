@@ -92,6 +92,9 @@
 		<Unit filename="/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/SimpleTest.cpp">
 			<Option target="os_ex4"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/VirtualMemory.cpp">
+			<Option target="os_ex4"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/user/CLionProjects/os_exe/exe4/VirtualMemory.h">
 			<Option target="os_ex4"/>
 		</Unit>

@@ -7,5 +7,11 @@ CMakeFiles/os_ex4.dir/PhysicalMemory.cpp.o
  /cygdrive/c/Users/user/CLionProjects/os_exe/exe4/PhysicalMemory.h
 CMakeFiles/os_ex4.dir/SimpleTest.cpp.o
  /cygdrive/c/Users/user/CLionProjects/os_exe/exe4/MemoryConstants.h
+ /cygdrive/c/Users/user/CLionProjects/os_exe/exe4/PhysicalMemory.h
  /cygdrive/c/Users/user/CLionProjects/os_exe/exe4/SimpleTest.cpp
+ /cygdrive/c/Users/user/CLionProjects/os_exe/exe4/VirtualMemory.h
+CMakeFiles/os_ex4.dir/VirtualMemory.cpp.o
+ /cygdrive/c/Users/user/CLionProjects/os_exe/exe4/MemoryConstants.h
+ /cygdrive/c/Users/user/CLionProjects/os_exe/exe4/PhysicalMemory.h
+ /cygdrive/c/Users/user/CLionProjects/os_exe/exe4/VirtualMemory.cpp
  /cygdrive/c/Users/user/CLionProjects/os_exe/exe4/VirtualMemory.h
