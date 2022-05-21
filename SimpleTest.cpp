@@ -3,6 +3,7 @@
 #include <cstdio>
 #include <cassert>
 #include "PhysicalMemory.h"
+#include "VirtualMemory.h"
 
 int main(int argc, char **argv) {
 //    VMinitialize();
@@ -22,5 +23,11 @@ int main(int argc, char **argv) {
 //    return 0;
   printf("page size is = %d\n", PAGE_SIZE);
   printf("depth is = %d\n", TABLES_DEPTH);
+  uint64_t virtual_address = 8;
+  int table[TABLES_DEPTH];
+  for (int i = TABLES_DEPTH; i>=1;i--){
+	table[i] = virtual_address & (uint64_t) (PAGESIZE-1);
+	virtual_address = virtual_address >> OFFSET_WIDTH;
+  }
 
 }
